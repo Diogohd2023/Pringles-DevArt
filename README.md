@@ -79,3 +79,7 @@ Projeto desenvolvido por **Diogo**, como parte do aprendizado e prática de dese
 ## 📄 Licença
 
 Este projeto está licenciado para uso livre e educacional. Sinta‑se à vontade para estudar e adaptar.
+
+
+<img width="1906" height="869" alt="Captura de tela 2025-11-18 182746" src="https://github.com/user-attachments/assets/b59ac738-cb9b-4f43-84d0-54042b596935" />
+
